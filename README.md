@@ -1,4 +1,4 @@
-# NEGs with Load Balancer on GKE
+# NEGs with Cloud Load Balancer with nginx-ingress on GKE
 source: https://hodo.dev/posts/post-27-gcp-using-neg/
 
 My goal is to have EXTERNAL HTTP CLOUD LOAD BALANCER with NGINX INGRESS in our GCP GKE.
