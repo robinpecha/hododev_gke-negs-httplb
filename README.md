@@ -1,7 +1,7 @@
 # NEGs with Load Balancer on GKE
 source: https://hodo.dev/posts/post-27-gcp-using-neg/
 
-My goal is to have EXTERNAL HTTP CLOUD LOAD BALANCERE with NGINX INGRESS in our GCP GKE.
+My goal is to have EXTERNAL HTTP CLOUD LOAD BALANCER with NGINX INGRESS in our GCP GKE.
 
 Im trying soultuion as Rami H proposed and Google developer Garry Singh confirmed:
 > You can create the Nginx as a service of type LoadBalancer and give it a NEG annotation as per this google documentation.
